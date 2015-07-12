@@ -8,6 +8,9 @@
 
 ### Education (http://dsp.rice.edu/ML4Ed_ICML2015)
 
+### Human Resource
+* Automatic Resume Scanner and Filter
+
 ### Slice Intelligence (http://intelligence.slice.com/)
 *	Customer: Online retailers
 *	Data: online shopping email receipts from hundreds of thousands of retailers. (seller, product, price, user)
