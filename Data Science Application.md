@@ -6,6 +6,8 @@
 * Data Source:
 * Technique:
 
+### Agriculture (http://www.datascienceweekly.org/data-scientist-interviews/big-data-and-agriculture-next-green-revolution-wolfgang-van-loeper-interview-mysmartfarm)
+
 ### Education (http://dsp.rice.edu/ML4Ed_ICML2015)
 
 ### Human Resource
